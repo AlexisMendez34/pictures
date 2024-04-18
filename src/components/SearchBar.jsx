@@ -27,3 +27,4 @@ function SearchBar({onSubmit}){
         </div>
     )
 }
+export default SearchBar
