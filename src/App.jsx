@@ -6,7 +6,7 @@ function App() {
   const [images, setImages] = useState([])
   
   const handleSubmit = async(term) => {
-    console.log('uste esta buscando con: term')
+    console.log('usted esta buscando con: ', term)
   }
 
   return (
