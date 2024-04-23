@@ -11,7 +11,7 @@ function App() {
     const result = await searchImage(term)
     
     console.log('coco')
-    console.log('result')
+    console.log(result)
 
     setImages(result)
   }
